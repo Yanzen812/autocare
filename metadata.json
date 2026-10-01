@@ -1,0 +1,6 @@
+{
+  "name": "AutoCare",
+  "description": "Aplikasi manajemen servis kendaraan, booking bengkel, pemantauan telematika OBD-II, dan pelacakan status pengerjaan langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
